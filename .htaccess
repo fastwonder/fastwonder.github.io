@@ -1,3 +1,0 @@
-RewriteEngine On 
-RewriteCond %{HTTP_HOST} ^fastwonder.com
-RewriteRule (.*) https://fastwonder.com/$1 [R=301,L]
