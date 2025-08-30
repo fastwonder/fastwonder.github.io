@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   make the most out of their engagements in open source
 logo: /assets/img/dawn.jpg
 domain: fastwonder.github.io
+repository: fastwonder/fastwonder.github.io
 baseurl: /
 url: https://fastwonder.github.io
 twitter_username: jekyllrb
