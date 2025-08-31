@@ -79,3 +79,4 @@ These are just a few of many examples of work that I’ve done in the past. You 
 Learn more about my work and expertise by visiting my [LinkedIn](https://www.linkedin.com/in/dawnfoster) page, watching my [conference talks](https://fastwonderblog.com/speaking/), or reading my [blog posts](https://fastwonderblog.com/starting-point/).
 
 © Copyright Dawn Foster
+<a rel="me" href="https://hachyderm.io/@geekygirldawn"></a>
