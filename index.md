@@ -24,8 +24,6 @@ Starting in mid-2026, I’ll also be available for longer engagements. Please no
 
 I have particular expertise and interest in helping companies on the following topics.
 
-
-
 * **Open Source Strategy**: Crafting strategies for your OSPO, open source teams, or product teams that help employees focus their open source work in areas with the most impact along with demonstrating the value of your open source efforts to your executive team.
 * **Contributor and Community Strategy**: Strategies and techniques for growing the contributor base and improving the sustainability of for your open source projects.
 * **Governance**: Documenting and improving project governance processes for open source projects along with providing advice when there are governance issues or concerns.
@@ -33,10 +31,8 @@ I have particular expertise and interest in helping companies on the following t
 
 There are also a few things that I prefer **not** to consult on:
 
-
-
 * Legal and licensing matters: there are plenty of lovely open source lawyers who can help you out.
-* Making money or building a business around open source: I can introduce you to people who are very good at this.
+* Business models or building a business around open source: I can introduce you to people who are very good at this.
 * Hands-on community management or similar projects that require me to be “on-call” or available on short notice.
 
 
