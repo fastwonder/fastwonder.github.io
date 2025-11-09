@@ -9,40 +9,46 @@ I have several decades of experience working in open source with a focus on how 
 
 One of my primary strengths is being able to step back to see the big picture while diagnosing issues and suggesting solutions. This affinity for problem solving can be best utilized via a short advisory engagement.
 
-
 ## **Short Advisory Engagements**
 
 These short video calls are for advice, feedback, and brainstorming around open source strategy, contributor strategy, improving project governance, and similar topics. They should be scoped to something that we can make tangible progress on during a video call lasting 1-2 hours. These engagements can also include 1-2 hours of pre-work (at the same hourly rate) in addition to the 1-2 hour call if having more specific context in advance of the call would be helpful. Reach out to Dr. Dawn Foster at dawn@fastwonder.com to book.
 
-
 ## **Longer Engagements**
 
 Starting in mid-2026, I’ll also be available for longer engagements. Please note that I will only be available on a part-time basis and am not looking for full time work.
-
 
 ## **Consulting Engagement Topics**
 
 I have particular expertise and interest in helping companies on the following topics.
 
 * **Open Source Strategy**: Crafting strategies for your OSPO, open source teams, or product teams that help employees focus their open source work in areas with the most impact along with demonstrating the value of your open source efforts to your executive team.
-* **Contributor and Community Strategy**: Strategies and techniques for growing the contributor base and improving the sustainability of for your open source projects.
+* **Contributor and Community Strategy**: Strategies and techniques for growing your contributor base and improving sustainability for the open source projects driven by your organization and when working upstream.
 * **Governance**: Documenting and improving project governance processes for open source projects along with providing advice when there are governance issues or concerns.
 * **Research and Data Analysis**: Open to a variety of research and data projects to answer questions you have about open source projects from understanding an existing contributor base to doing audits of your GitHub organizations to understand the status of your repositories.
 
 There are also a few things that I prefer **not** to consult on:
 
-* Legal and licensing matters: there are plenty of lovely open source lawyers who can help you out.
+* Compliance, legal, and licensing matters: there are plenty of lovely open source lawyers and compliance experts who can help you out.
 * Business models or building a business around open source: I can introduce you to people who are very good at this.
-* Hands-on community management or similar projects that require me to be “on-call” or available on short notice.
+* Hands-on community management, leading an OSPO, or similar projects that require me to be “on-call” or available on short notice.
 
+### Who can benefit from my consulting services
+
+* You don't already have an OSPO: I can help you figure out what you need while also providing advice and help with recruiting the right person to lead your organization's OSPO.
+* You have a very small OSPO: I am available if you need someone to help kickstart your efforts, review your strategies / plans, or just provide some expert help for any of the above consulting engagement topics.
+* You have a medium or large OSPO: I can help if you need specialized expertise to resolve an issue or to help your organization develop customized best practices around open source contribution and governance.
+
+### When you would benefit from a consulting engagement:
+
+* You need specialized expertise: I am able to offer short-term help on any of the above consulting engagement topics to resolve an issue or provide advice.
+* You want feedback: I can review and give feedback on strategies and best practices documents for your organization.
+* You have leftover training budget that needs to be used: I can provide training for your team or structure a consulting engagement as a hands-on workshop that you can pay for out of your training budget.
 
 ## **Expertise and Experience**
 
 These are just a few of many examples of work that I’ve done in the past. You can learn more about me by visiting my [LinkedIn](https://www.linkedin.com/in/dawnfoster) page, watching my [conference talks](https://fastwonderblog.com/speaking/), or reading my [blog posts](https://fastwonderblog.com/starting-point/).
 
 **Open Source Strategy and OSPOs**:
-
-
 
 * I worked in Intel’s first OSPO in the mid-2000s where I was responsible for Intel’s global open source engagement strategy for Linux operating system vendor enabling, and before the OSPO was formed, I was responsible for enablement strategies for Linux and open source developer tools.
 * At Pivotal, I had overall responsibility for the OSS Kubernetes Contributors Program, including ownership of Pivotal’s Open Source Kubernetes Contribution strategy with development and maintenance of the strategy using feedback from product teams, engineers, and Pivotal leadership. This included making regular updates to the strategy to adapt to changes in our technology strategies or the Kubernetes project as well as providing direction to the teams within the OSS Kubernetes program to ensure that our Kubernetes contributions remained aligned with our corporate strategy and the Kubernetes contribution strategy.
@@ -51,22 +57,16 @@ These are just a few of many examples of work that I’ve done in the past. You 
 
 **Contributor and Community Strategy**:
 
-
-
 * As Director of Open Source Community Strategy at VMware, I led the open source community strategy team within VMware’s OSPO with a focus on contributor strategy and improving the health of our open source projects while ensuring that we were good corporate citizens when participating in open source communities.
 * As Director of Community at Puppet, I led all aspects of the Puppet community, including strategy, planning, and managing the community team.
 * As Co-Chair of the CNCF Contributor Strategy Technical Advisory Group (TAG), I provided advice and best practices to help CNCF projects develop contributor strategies and grow their contributor base.
 
 **Governance**:
 
-
-
 * I was one of the Governance Working Group leads under the CNCF Contributor Strategy TAG where I completed governance reviews and provided advice for CNCF projects along with developing some of the governance templates and how-to guides.
 * While working at VMware, Pivotal, and other companies, I provided advice to internal teams across a wide variety of open source project governance topics.
 
 **Research and Data Analysis**:
-
-
 
 * [Metrics and measuring project health](https://fastwonderblog.com/metrics/) has been an integral part of my contributor and community strategy work for decades in addition to using the metrics tools that eventually became part of the CHAOSS project to build my PhD datasets. All of this work led to me becoming a CHAOSS board member, working group lead, and eventually Director of Data Science at CHAOSS.
 * While at VMware, I wrote [scripts](https://github.com/geekygirldawn/project-api-metrics/tree/main/scripts) to automate the collection of data to audit our repositories for compliance with our policies and to find projects that were candidates for sunsetting (archival).
