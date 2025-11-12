@@ -11,7 +11,7 @@ One of my primary strengths is being able to step back to see the big picture wh
 
 ## **Short Advisory Engagements**
 
-These short video calls are for advice, feedback, and brainstorming around open source strategy, contributor strategy, improving project governance, and similar topics. They should be scoped to something that we can make tangible progress on during a video call lasting 1-2 hours. These engagements can also include 1-2 hours of pre-work (at the same hourly rate) in addition to the 1-2 hour call if having more specific context in advance of the call would be helpful. Reach out to Dr. Dawn Foster at dawn@fastwonder.com to book.
+I'm currently available for short engagements to provide advice, feedback, and brainstorming around open source strategy, contributor strategy, improving project governance, and similar topics. Reach out to Dr. Dawn Foster at dawn@fastwonder.com to book.
 
 ## **Longer Engagements**
 
