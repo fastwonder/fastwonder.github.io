@@ -11,7 +11,7 @@ One of my primary strengths is being able to step back to see the big picture wh
 
 ## **Short Advisory Engagements**
 
-I'm currently available for short engagements to provide advice, feedback, and brainstorming around open source strategy, contributor strategy, improving project governance, and similar topics. Reach out to Dr. Dawn Foster at dawn@fastwonder.com to book.
+I'm currently available for short engagements to provide advice, feedback, and brainstorming around open source strategy, contributor strategy, improving project governance, and similar topics. Reach out to Dawn Foster at dawn@fastwonder.com to book.
 
 ## **Longer Engagements**
 
@@ -74,5 +74,3 @@ These are just a few of many examples of work that I’ve done in the past. You 
 
 Learn more about my work and expertise by visiting my [LinkedIn](https://www.linkedin.com/in/dawnfoster) page, watching my [conference talks](https://fastwonderblog.com/speaking/), or reading my [blog posts](https://fastwonderblog.com/starting-point/).
 
-© Copyright Dawn Foster
-<a rel="me" href="https://hachyderm.io/@geekygirldawn"></a>
