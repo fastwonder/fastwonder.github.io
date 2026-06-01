@@ -9,13 +9,15 @@ I have several decades of experience working in open source with a focus on how 
 
 One of my primary strengths is being able to step back to see the big picture while diagnosing issues and suggesting solutions. This affinity for problem solving can be best utilized via a short advisory engagement.
 
-## **Short Advisory Engagements**
+## **Booking an Engagement**
 
-I'm currently available for short engagements to provide advice, feedback, and brainstorming around open source strategy, contributor strategy, improving project governance, and similar topics. Reach out to Dawn Foster at dawn@fastwonder.com to book.
+I'm available for short engagements to provide advice, feedback, and brainstorming around open source strategy, contributor strategy, improving project governance, and similar topics. 
 
-## **Longer Engagements**
+I’m also be available for longer engagements on a per-project basis for developing strategies, working on governance, research, and related work. 
 
-Starting in mid-2026, I’ll also be available for longer engagements. Please note that I will only be available on a part-time basis and am not looking for full time work.
+Please note that I am only be available on a part-time basis and am not looking for full time work.
+
+Reach out to Dawn Foster at dawn@fastwonder.com to book.
 
 ## **Consulting Engagement Topics**
 
