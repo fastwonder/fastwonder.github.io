@@ -13,7 +13,7 @@ One of my primary strengths is being able to step back to see the big picture wh
 
 I'm available for short engagements to provide advice, feedback, and brainstorming around open source strategy, contributor strategy, improving project governance, and similar topics. 
 
-I’m also be available for longer engagements on a per-project basis for developing strategies, working on governance, research, and related work. 
+I’m also be available for longer engagements on a per-project basis for developing strategies, working on governance, research, measuring funding impact, and related work. 
 
 Please note that I am only be available on a part-time basis and am not looking for full time work.
 
@@ -26,6 +26,7 @@ I have particular expertise and interest in helping companies on the following t
 * **Open Source Strategy**: Crafting strategies for your OSPO, open source teams, or product teams that help employees focus their open source work in areas with the most impact along with demonstrating the value of your open source efforts to your executive team.
 * **Contributor and Community Strategy**: Strategies and techniques for growing your contributor base and improving sustainability for the open source projects driven by your organization and when working upstream.
 * **Governance**: Documenting and improving project governance processes for open source projects along with providing advice when there are governance issues or concerns.
+* **Funding Impact**: Helping organizations better understand the impact of funding provided to open source projects.
 * **Research and Data Analysis**: Open to a variety of research and data projects to answer questions you have about open source projects from understanding an existing contributor base to doing audits of your GitHub organizations to understand the status of your repositories.
 
 There are also a few things that I prefer **not** to consult on:
@@ -39,6 +40,7 @@ There are also a few things that I prefer **not** to consult on:
 * You don't already have an OSPO: I can help you figure out what you need while also providing advice and help with recruiting the right person to lead your organization's OSPO.
 * You have a very small OSPO: I am available if you need someone to help kickstart your efforts, review your strategies / plans, or just provide some expert help for any of the above consulting engagement topics.
 * You have a medium or large OSPO: I can help if you need specialized expertise to resolve an issue or to help your organization develop customized best practices around open source contribution and governance.
+* Your organization is working within the open source ecosystem and would like some help to improve your open source contributions or to determine the impact of funding open source projects.
 
 ### When you would benefit from a consulting engagement:
 
@@ -72,7 +74,7 @@ These are just a few of many examples of work that I’ve done in the past. You 
 
 * [Metrics and measuring project health](https://fastwonderblog.com/metrics/) has been an integral part of my contributor and community strategy work for decades in addition to using the metrics tools that eventually became part of the CHAOSS project to build my PhD datasets. All of this work led to me becoming a CHAOSS board member, working group lead, and eventually Director of Data Science at CHAOSS.
 * While at VMware, I wrote [scripts](https://github.com/geekygirldawn/project-api-metrics/tree/main/scripts) to automate the collection of data to audit our repositories for compliance with our policies and to find projects that were candidates for sunsetting (archival).
-* I’ve also participated in a number of [research projects](https://fastwonderblog.com/academic/), including my recent work to better understand projects that have moved from open source to proprietary licenses and the forks that resulted from those relicensing events.
+* I’ve also participated in a number of [research projects](https://fastwonderblog.com/academic/), including determining funding impact along with my recent work to better understand projects that have moved from open source to proprietary licenses and the forks that resulted from those relicensing events.
 
 Learn more about my work and expertise by visiting my [LinkedIn](https://www.linkedin.com/in/dawnfoster) page, watching my [conference talks](https://fastwonderblog.com/speaking/), or reading my [blog posts](https://fastwonderblog.com/starting-point/).
 
