@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Consulting by Dawn Foster
+# Fast Wonder Consulting by Dawn Foster
 I help companies get the best value from their open source engagements by working together with them to think strategically about how they use and contribute to open source projects whether those projects are driven by their own company or by other organizations. I do this by providing consulting services focused on open source strategy, contributor strategy, improving project governance, and related topics.
 
 I have several decades of experience working in open source with a focus on how companies can make the most out of their open source engagements. I’ve worked in open source leadership roles at very large hardware and software companies (Intel and VMware) in addition to startups and mid-sized companies. I have a B.S. in Computer Science, an MBA, and a PhD, which was focused on how contributors to the Linux kernel collaborate with each other. I have given over 100 presentations, including invited (not sponsored) keynotes at KubeCon, State of Open Con, and other events. Visit my [LinkedIn page](https://www.linkedin.com/in/dawnfoster/) to learn more about me.
