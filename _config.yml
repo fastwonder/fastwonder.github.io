@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Consulting 
+title: Fast Wonder
 email: dawn@fastwonder.com
 description: >- # this means to ignore newlines until "baseurl:"
   Leverage Dr. Dawn Foster's decades of experience working in open source to help your
